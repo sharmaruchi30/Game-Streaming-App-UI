@@ -1,4 +1,12 @@
-# game_streaming_app
+# Streaming App UI 
+
+UI CREDITS - https://dribbble.com/shots/19890385-Game-Streaming-Mobile-IOS-App
+
+App Screenshots-
+
+<img src = " assets/ss/home.jpg" width = "300" height = "600" >''
+<img src = " assets/ss/home2.jpg" width = "300" height = "600" >''
+<img src = " assets/ss/card.jpg" width = "300" height = "600" >''
 
 A new Flutter project.
 
